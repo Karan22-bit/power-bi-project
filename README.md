@@ -17,7 +17,7 @@ This dashboard is created for **Job seeker, Job transitioners, and Job swappers*
   - **Slicers:** To Dynamically filter the report by jo title
   - **Buttons and Bookmarks:** To create a seamless navigation
 ## Dashboard Overview 
-![alt text](image.png)
+![Dashboard Image](/IMAGESS/IMAGE1.png)
 
 this is your mission control for title data job market. It showcases key APIs like total Job Counts, Median salaries and top job titles to give you a quick understanding of what's happening in the job market at a glance.
 
